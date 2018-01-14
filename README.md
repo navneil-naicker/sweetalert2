@@ -1,85 +1,15 @@
 <p align="center">
   <a href="https://sweetalert2.github.io/">
-    <img src="/assets/swal2-logo.png" alt="SweetAlert2">
+    <img src="https://sweetalert2.github.io/images/swal2-logo.png" alt="SweetAlert2">
   </a>
 </p>
 
 <br>
 
-<p align="center">
-  <a href="https://travis-ci.org/sweetalert2/sweetalert2"><img alt="Build Status" src="https://travis-ci.org/sweetalert2/sweetalert2.svg?branch=master"></a>
-  <a href="https://www.npmjs.com/package/sweetalert2"><img alt="Version" src="https://img.shields.io/npm/v/sweetalert2.svg"></a>
-  <a href="https://checkgzipcompression.com/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsweetalert2%2Fsweetalert2%2Fmaster%2Fdist%2Fsweetalert2.all.min.js"><img alt="gzip size" src="http://img.badgesize.io/sweetalert2/sweetalert2/master/dist/sweetalert2.all.min.js.svg?compression=gzip"></a>
-  <a href="http://isitmaintained.com/project/sweetalert2/sweetalert2"><img alt="Average time to resolve an issue" src="http://isitmaintained.com/badge/resolution/sweetalert2/sweetalert2.svg"></a>
-  <a href="https://gitter.im/sweetalert2/Lobby"><img alt="Gitter" src="https://badges.gitter.im/Join%20Chat.svg"></a>
-  <a href="https://www.patreon.com/limonte"><img alt="Support me on Patreon" src="http://ionicabizau.github.io/badges/patreon.svg"></a>
-  <a href="https://www.paypal.me/limonte/5eur"><img alt="PayPal Donate" src="http://ionicabizau.github.io/badges/paypal.svg"></a>
-</p>
+<p><b>Declaminer:</b></p>
+<p>This is not the offical SweetAlert2 repo. Please visit <a href="https://sweetalert2.github.io/">https://sweetalert2.github.io/</a></p>
 
-<p align="center">
-  A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-</p>
-
-<p align="center">
-  <a href="https://sweetalert2.github.io/">
-    <img src="https://raw.github.com/sweetalert2/sweetalert2/master/assets/sweetalert2.gif" width="515"><br>
-    See SweetAlert2 in action ↗
-  </a>
-</p>
-
----
-
-:point_right: **Upgrading from v6.x to v7.x?** [Read the release notes!](https://github.com/sweetalert2/sweetalert2/releases/tag/v7.0.0)
-
-:point_right: **Migrating from [SweetAlert](https://github.com/t4t5/sweetalert)?** [SweetAlert 1.x to SweetAlert2 migration guide](https://github.com/sweetalert2/sweetalert2/wiki/Migration-from-SweetAlert-to-SweetAlert2)
-
----
-
-Installation
-------------
-
-```bash
-npm install --save sweetalert2
-```
-
-Or:
-
-```bash
-bower install --save sweetalert2
-```
-
-Or download from CDN: [unpkg.com/sweetalert2](https://unpkg.com/sweetalert2)
-
-
-Usage
------
-
-```html
-<script src="bower_components/sweetalert2/dist/sweetalert2.all.min.js"></script>
-
-<!-- Include a polyfill for ES6 Promises (optional) for IE11, UC Browser and Android browser support -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/core-js/2.4.1/core.js"></script>
-```
-
-You can also include the stylesheet separately if desired:
-
-```html
-<script src="bower_components/sweetalert2/dist/sweetalert2.min.js"></script>
-<link rel="stylesheet" href="bower_components/sweetalert2/dist/sweetalert2.min.css">
-```
-
-Or:
-
-```js
-// ES6 Modules or TypeScript
-import swal from 'sweetalert2'
-
-// CommonJS
-const swal = require('sweetalert2')
-```
-
-Please note that TypeScript is supported, so you don't have to install a third-party declaration file.
-
+<br>
 
 Examples
 --------
