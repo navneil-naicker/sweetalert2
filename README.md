@@ -6,7 +6,8 @@
 
 <br>
 
-<p><b>Declaminer:</b></p>
+Declaminer:
+-----------
 <p>This is not the offical SweetAlert2 repo. Please visit <a href="https://sweetalert2.github.io/">https://sweetalert2.github.io/</a></p>
 
 <br>
